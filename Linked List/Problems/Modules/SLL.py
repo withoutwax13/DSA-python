@@ -1,6 +1,3 @@
-from typing import Counter
-
-
 class Node(object):
     def __init__(self):
         self.data = None
